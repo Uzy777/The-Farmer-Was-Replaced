@@ -6,6 +6,6 @@ The Farmer Was Replaced - Game
 
 
 ## 1:
-
+![alt text](1/ss.png)
 
 ## 2:
