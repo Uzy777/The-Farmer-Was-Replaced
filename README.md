@@ -5,10 +5,7 @@ The Farmer Was Replaced - Game
 - https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
 
 
-## v1.0:
-![alt text](v1/v1.0.png)
-![alt text](v1/v1.0-tree.png)
+## 1:
 
-## v2.0:
-![alt text](v2/v2.0.png)
-![alt text](v2/v2.0-tree.png)
+
+## 2:
