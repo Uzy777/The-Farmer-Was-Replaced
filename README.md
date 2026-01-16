@@ -8,6 +8,6 @@ The Farmer Was Replaced - Game
 ## 1:
 ![alt text](1/ss.png)
 
-## 2:
+## 2 - 2026/01/16:
 ![alt text](2-20260116/20260116204318_1.jpg)
 
