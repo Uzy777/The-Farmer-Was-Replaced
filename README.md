@@ -9,3 +9,5 @@ The Farmer Was Replaced - Game
 ![alt text](1/ss.png)
 
 ## 2:
+![alt text](2-20260116/20260116204318_1.jpg)
+
